@@ -1,0 +1,6 @@
+{
+  "name": "Kelime Balonu",
+  "description": "İlkokul çocukları için şiddetsiz, eğlenceli ve eğitici Türkçe kelime tahmin oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
